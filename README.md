@@ -5,7 +5,7 @@ This is an extremely basic GDD. I’ll flesh it out more as I get more informati
 I’m using the list for milestones on pg 160 in the book.
 
 Characters, objects, levels:
-Tier 1 characters: “runner”, “walker”, “thrower”. Each category uses the same model, to make their behavior more predictable by the player, but needs to have very distinctive texture and particle effects to make their element equally recognizable.
+Tier 1 characters: “runner”, “walker”, “thrower”. Each category uses the same model, to make their behavior more predictable by the player, but needs to have very distinctive texture and particle effects to make their element equally recognizable.  
 Tier 2 character: Frost Giant boss. Only mob in his particular spawn, but does not prevent other spawns around him. Cannot be absorbed.
 Tier 3 characters: This is only if we are waaaaaaay ahead of schedule: I’d like to see if we could dual-element a mob, so that it will effectively have to be killed twice with different crystals. 
 
